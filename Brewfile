@@ -82,8 +82,10 @@ cask 'packer'
 cask 'terraform'
 cask 'otto'
 cask 'charles'
+cask 'docker'
 
 brew 'rust'
+brew 'node'
 
 # Browsers
 cask 'google-chrome'
@@ -92,7 +94,6 @@ cask 'firefox'
 
 
 # Quick look plugins
-
 cask 'qlcolorcode'
 cask 'qlstephen'
 cask 'qlmarkdown'
